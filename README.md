@@ -1,4 +1,4 @@
-# Weather App Readme
+# Weather App
 
 ![Weather App](./images/Weather%20App.png)
 
