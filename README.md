@@ -52,7 +52,7 @@ Contributions to the Weather App are welcome! If you find any issues, have sugge
 
 ## Contact
 
-If you have any questions, feedback, or inquiries, you can reach us at [your-email@example.com](mailto:mirisabejko@outlook.com).
+If you have any questions, feedback, or inquiries, you can reach us at [mirisabejko@outlook.com](mailto:mirisabejko@outlook.com).
 
 Thank you for using the Weather App!
 
